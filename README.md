@@ -1,4 +1,4 @@
-#Calculator Program
+# Calculator Program
 
 This is a simple integer calculator built in Java, with JUnit testing.
 
